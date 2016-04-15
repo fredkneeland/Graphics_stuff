@@ -1,0 +1,17 @@
+disruptor_diff_holo.dds:6:7:8:9:6:
+disruptor_emmisive.dds:6:7:8:9:6:
+disruptor_sphere_diffuse.dds:6:7:8:9:6:
+disruptor_sphere_emmisive.dds:6:7:8:9:6:
+disruptor_sphere_normal.dds:6:7:8:9:6:
+disruptor_sphere_specular.dds:6:7:8:9:6:
+protoss_cursor2d_teal.dds:8:9:9:9:6:
+protosscursor_disruptor2.dds:8:9:9:9:6:
+purifier_reflection.dds:6:7:8:9:6:
+replicant_diff.dds:6:7:8:9:6:
+replicant_emis.dds:6:7:8:9:6:
+replicant_norm.dds:6:7:8:9:6:
+replicant_spec.dds:6:7:8:9:6:
+replicantsphere_diff.dds:6:7:8:9:6:
+replicantsphere_emis.dds:6:7:8:9:6:
+replicantsphere_norm.dds:6:7:8:9:6:
+replicantsphere_spec.dds:6:7:8:9:6:

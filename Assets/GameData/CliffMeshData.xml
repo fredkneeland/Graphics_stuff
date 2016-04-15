@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CCliffMesh id="CliffMade15">
+        <CliffHeights index="0" value="-20.000000"/>
+        <WeldNormals value="0"/>
+    </CCliffMesh>
+    <CCliffMesh id="CliffNatural5">
+        <CliffHeights index="0" value="-20.000000"/>
+    </CCliffMesh>
+    <CCliffMesh id="CliffMade6Ex2">
+        <CliffHeights index="0" value="-7.000000"/>
+    </CCliffMesh>
+</Catalog>

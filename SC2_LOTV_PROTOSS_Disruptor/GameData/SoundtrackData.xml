@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CSoundtrack id="TestMusic" parent="Music">
+        <CueArray>
+            <MasterLayer Sound="TestMusic"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+        <Delay value="5,10"/>
+        <Flags index="Continuous" value="0"/>
+    </CSoundtrack>
+    <CSoundtrack id="Ambience_Aiur_Jungle_Quad" parent="Ambience_Map"/>
+</Catalog>

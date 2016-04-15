@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CCliff id="AiurTempleCliff0">
+        <CliffMesh value="CliffNatural0Ex1"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffnatural.dds"/>
+    </CCliff>
+    <CCliff id="AiurTempleCliff1">
+        <CliffMesh value="CliffMade1Ex1"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_clifftemple.dds"/>
+    </CCliff>
+    <CCliff id="KorhalPlatformCliff0">
+        <CliffMesh value="CliffMade6Ex2"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_clifftemple.dds"/>
+    </CCliff>
+    <CCliff id="ProtossBaseOrganicCliffs">
+        <CliffMesh value="CliffNatural0Ex1"/>
+        <CliffMaterial value="Assets\Cliffs\BelShirEx1Cliff0_Material\BelShirEx1Cliff0_Material.m3"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffnatural.dds"/>
+    </CCliff>
+    <CCliff id="ProtossBaseManmadeCliffs">
+        <CliffMesh value="CliffMade11"/>
+        <CliffMaterial value="Assets\Cliffs\StarshipCliff0_Material\StarshipCliff0_Material.m3"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffmanmade.dds"/>
+    </CCliff>
+    <CCliff id="UlnarOuterCliff0">
+        <CliffMesh value="CliffNatural5"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffnatural.dds"/>
+    </CCliff>
+    <CCliff id="UlnarOuterCliff1">
+        <CliffMesh value="CliffMade15"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffmanmade.dds"/>
+    </CCliff>
+    <CCliff id="SlaynCliff0">
+        <CliffMaterial value="Assets\Cliffs\ShakurasTempleEx2_Cliff0_Material\ShakurasTempleEx2_Cliff0_Material.m3"/>
+        <CliffMesh value="CliffNatural0Ex1"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffnatural.dds"/>
+    </CCliff>
+    <CCliff id="SlaynCliff1">
+        <CliffMaterial value="Assets\Cliffs\ShakurasTempleEx2_Cliff1_Material\ShakurasTempleEx2_Cliff1_Material.m3"/>
+        <CliffMesh value="CliffMade16"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_clifftemple.dds"/>
+    </CCliff>
+    <CCliff id="AiurCityCliff0">
+        <EditorIcon value="Assets\Textures\ui-editoricon-terraineditor_cliffmanmade.dds"/>
+        <CliffMesh value="CliffMade11"/>
+    </CCliff>
+</Catalog>

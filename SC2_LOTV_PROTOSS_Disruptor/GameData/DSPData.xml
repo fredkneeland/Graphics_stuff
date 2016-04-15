@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CDSPLimiter id="Void_HowlingWolfeLimiter_MasterOutputs">
+        <ThresholdDB value="-0.100000"/>
+        <MakeUpGainDB value="0.000000"/>
+        <ARCMinReleaseMs value="10"/>
+        <ARCMaxReleaseMs value="500"/>
+    </CDSPLimiter>
+</Catalog>

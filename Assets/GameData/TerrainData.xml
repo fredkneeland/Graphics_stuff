@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrain default="1">
+        <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal_ex2.dds"/>
+        <CreepSettingsArray index="Low">
+            <CreepOpaqueAlphaThreshold value="0.200000"/>
+            <CreepTranslucentMinThreshold value="0.000000"/>
+            <CreepTranslucentMaxThreshold value="0.200000"/>
+            <CreepTranslucentPassTint value="1.100000,1.000000,1.100000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.200000"/>
+            <CreepTranslucentMinThreshold value="0.000000"/>
+            <CreepTranslucentMaxThreshold value="0.200000"/>
+            <CreepTranslucentPassTint value="1.100000,1.000000,1.100000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.200000"/>
+            <CreepTranslucentMinThreshold value="0.000000"/>
+            <CreepTranslucentMaxThreshold value="0.200000"/>
+            <CreepTranslucentPassTint value="1.100000,1.000000,1.100000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.200000"/>
+            <CreepTranslucentMinThreshold value="0.000000"/>
+            <CreepTranslucentMaxThreshold value="0.200000"/>
+            <CreepTranslucentPassTint value="1.100000,1.000000,1.100000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.200000"/>
+            <CreepTranslucentMinThreshold value="0.000000"/>
+            <CreepTranslucentMaxThreshold value="0.200000"/>
+            <CreepTranslucentPassTint value="1.100000,1.000000,1.100000"/>
+        </CreepSettingsArray>
+    </CTerrain>
+    <CTerrain id="AiurTempleJungle">
+        <EditorCategories value="Climate:Urban"/>
+        <LoadingScreen value="Assets\Textures\loading-aiur.dds"/>
+        <Ambience value="Ambience_Aiur"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="AiurTempleJungle1"/>
+        <BlendTextures value="AiurTempleJungle2"/>
+        <BlendTextures value="AiurTempleJungle3"/>
+        <BlendTextures value="AiurTempleJungle4"/>
+        <BlendTextures value="AiurTempleJungle5"/>
+        <BlendTextures value="AiurTempleJungle6"/>
+        <BlendTextures value="AiurTempleJungle7"/>
+        <BlendTextures value="AiurTempleJungle8"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="ProtossBaseOrganicCliffs"/>
+        <CliffSets value="AiurTempleCliff1"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <HeightMapEnabled value="1"/>
+    </CTerrain>
+</Catalog>

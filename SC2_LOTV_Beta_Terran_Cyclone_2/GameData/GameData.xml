@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CGame id="Dflt">
+        <MeleePointsThreshold Value="50000" Factor="0.333"/>
+        <MeleePointsGameDurationMin value="210"/>
+    </CGame>
+</Catalog>

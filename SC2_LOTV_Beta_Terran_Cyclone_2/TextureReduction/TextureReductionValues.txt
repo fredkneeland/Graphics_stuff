@@ -1,0 +1,9 @@
+cycloneex2portrait_dif.dds:7:8:9:11:6:
+terran_cyclone_diff.dds:7:8:9:10:6:
+terran_cyclone_emis.dds:7:8:9:10:6:
+terran_cyclone_gloss.dds:7:8:9:10:6:
+terran_cyclone_norm.dds:7:8:9:10:6:
+terran_cyclone_spec.dds:7:8:9:10:6:
+terran_cyclone_spec_final.dds:7:8:9:10:6:
+terran_cyclone_tread_diff.dds:6:6:7:7:6:
+terran_cyclone_tread_norm.dds:6:6:7:7:6:

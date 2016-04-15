@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CGameUI id="Dflt">
+        <CameraEventThresholdDistance value="0.5"/>
+        <CameraEventThresholdPitch value="4.9987"/>
+        <CameraEventThresholdYaw value="14.9963"/>
+        <CameraEventThresholdTarget value="1"/>
+        <HelpTechTitle value="UI/HelpMenuDialogTechVoid"/>
+        <HelpTechTreeSuffix value="_Void"/>
+        <StartupDSPArray value="Void_HowlingWolfeLimiter_MasterOutputs"/>
+        <SoundData index="Death">
+            <DSPArray index="0" removed="1"/>
+        </SoundData>
+        <SoundData index="Spell">
+            <DSPArray index="0" removed="1"/>
+        </SoundData>
+        <SoundData index="Combat">
+            <DSPArray index="0" removed="1"/>
+        </SoundData>
+        <SoundData index="SEmitters">
+            <VolumeRolloffPoints index="1" Distance="100.000000"/>
+        </SoundData>
+    </CGameUI>
+</Catalog>

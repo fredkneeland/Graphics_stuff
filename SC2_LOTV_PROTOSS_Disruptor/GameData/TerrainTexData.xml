@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrainTex id="ProtossBase1">
+        <Texture value="Assets\Textures\ProtossBase_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_1.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase2">
+        <Texture value="Assets\Textures\ProtossBase_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_2.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase3">
+        <Texture value="Assets\Textures\ProtossBase_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_3.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase4">
+        <Texture value="Assets\Textures\ProtossBase_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_4.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase5">
+        <Texture value="Assets\Textures\ProtossBase_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_5.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase6">
+        <Texture value="Assets\Textures\ProtossBase_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_6.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase7">
+        <Texture value="Assets\Textures\ProtossBase_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_7.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ProtossBase8">
+        <Texture value="Assets\Textures\ProtossBase_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-protossbase_8.dds"/>
+        <Normalmap value="Assets\Textures\ProtossBase_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple1">
+        <Texture value="Assets\Textures\ShakurasTemple_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_1.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_1Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_1normal.dds"/>
+        <HeightMapOffset value="0.200000"/>
+        <HeightMapScale value="3.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple2">
+        <Texture value="Assets\Textures\ShakurasTemple_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_2.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_2Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_2normal.dds"/>
+        <HeightMapScale value="1.500000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple3">
+        <Texture value="Assets\Textures\ShakurasTemple_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_3.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_3Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_3normal.dds"/>
+        <HeightMapScale value="3.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple4">
+        <Texture value="Assets\Textures\ShakurasTemple_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_4.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_4Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_2normal.dds"/>
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple5">
+        <Texture value="Assets\Textures\ShakurasTemple_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_5.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_5Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_5normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple6">
+        <Texture value="Assets\Textures\ShakurasTemple_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_6.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_6Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_6normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple7">
+        <Texture value="Assets\Textures\ShakurasTemple_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_7.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_7Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_7normal.dds"/>
+        <HeightMapScale value="3.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasTemple8">
+        <Texture value="Assets\Textures\ShakurasTemple_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurastemple_8.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasTemple_8Normal.dds"/>
+        <Heightmap value="Assets\Textures\shakurastemple_8normal.dds"/>
+        <HeightMapScale value="5.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity1">
+        <Texture value="Assets\Textures\ShakurasCity_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_1.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity2">
+        <Texture value="Assets\Textures\ShakurasCity_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_2.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity3">
+        <Texture value="Assets\Textures\ShakurasCity_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_3.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity4">
+        <Texture value="Assets\Textures\ShakurasCity_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_4.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity5">
+        <Texture value="Assets\Textures\ShakurasCity_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_5.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity6">
+        <Texture value="Assets\Textures\ShakurasCity_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_6.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity7">
+        <Texture value="Assets\Textures\ShakurasCity_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_7.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShakurasCity8">
+        <Texture value="Assets\Textures\ShakurasCity_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-shakurascity_8.dds"/>
+        <Normalmap value="Assets\Textures\ShakurasCity_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity1">
+        <Texture value="Assets\Textures\AiurCity_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_1.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_1Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_1normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="10.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity2">
+        <Texture value="Assets\Textures\AiurCity_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_2.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_2Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_2normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="10.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity3">
+        <Texture value="Assets\Textures\AiurCity_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_3.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_3Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_3normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="10.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity4">
+        <Texture value="Assets\Textures\AiurCity_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_4.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_4Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_4normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="10.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity6">
+        <Texture value="Assets\Textures\AiurCity_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_6.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_6Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_6normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="30.000000"/>
+        <DoodadEntry>
+            <Model value="DynamicGrassBelShir"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.750000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="AiurCity8">
+        <Texture value="Assets\Textures\AiurCity_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_8.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_8Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_8normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="10.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple1">
+        <Texture value="Assets\Textures\AiurTemple_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_1.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_1Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_1normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="3.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple2">
+        <Texture value="Assets\Textures\AiurTemple_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_2.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_2Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_2normal.dds"/>
+        <HeightMapScale value="5.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple3">
+        <Texture value="Assets\Textures\AiurTemple_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_3.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_3Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_3normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple4">
+        <Texture value="Assets\Textures\AiurTemple_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_4.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_4Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_4normal.dds"/>
+        <HeightMapScale value="20.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple5">
+        <Texture value="Assets\Textures\AiurTemple_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_5.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_5Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_5normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple6">
+        <Texture value="Assets\Textures\AiurTemple_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_6.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_6Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_6normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple7">
+        <Texture value="Assets\Textures\AiurTemple_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_7.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_7Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_7normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTemple8">
+        <Texture value="Assets\Textures\AiurTemple_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_8.dds"/>
+        <Normalmap value="Assets\Textures\AiurTemple_8Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurtemple_8normal.dds"/>
+        <HeightMapScale value="3.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_1">
+        <Texture value="Assets\Textures\korhalplatformex2_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-korhalplatformex2_1.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_1normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_1normal.dds"/>
+        <HeightMapScale value="15.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_2">
+        <Texture value="Assets\Textures\korhalplatformex2_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_2.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_2normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_2normal.dds"/>
+        <HeightMapScale value="20.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_3">
+        <Texture value="Assets\Textures\korhalplatformex2_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_3.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_3normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_3normal.dds"/>
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_4">
+        <Texture value="Assets\Textures\korhalplatformex2_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_4.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_4normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_4normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_5">
+        <Texture value="Assets\Textures\korhalplatformex2_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_5.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_5normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_5normal.dds"/>
+        <HeightMapScale value="5.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_6">
+        <Texture value="Assets\Textures\korhalplatformex2_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_6.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_6normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_6normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_7">
+        <Texture value="Assets\Textures\korhalplatformex2_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_7.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_7normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_7normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalPlatformEx2_8">
+        <Texture value="Assets\Textures\korhalplatformex2_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalPlatformex2_8.dds"/>
+        <Normalmap value="Assets\Textures\korhalplatformEx2_8normal.dds"/>
+        <Heightmap value="Assets\Textures\korhalplatformEx2_8normal.dds"/>
+        <HeightMapScale value="15.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter1">
+        <Texture value="Assets\Textures\UlnarOuter_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_1.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_1Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter2">
+        <Texture value="Assets\Textures\UlnarOuter_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_2.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_2Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter3">
+        <Texture value="Assets\Textures\UlnarOuter_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_3.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_3Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter4">
+        <Texture value="Assets\Textures\UlnarOuter_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_4.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter5">
+        <Texture value="Assets\Textures\UlnarOuter_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_5.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter6">
+        <Texture value="Assets\Textures\UlnarOuter_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_6.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_6Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter7">
+        <Texture value="Assets\Textures\UlnarOuter_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_7.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_7Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarOuter8">
+        <Texture value="Assets\Textures\UlnarOuter_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarouter_8.dds"/>
+        <Normalmap value="Assets\Textures\UlnarOuter_8Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner1">
+        <Texture value="Assets\Textures\UlnarInner_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_1.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_1Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner2">
+        <Texture value="Assets\Textures\UlnarInner_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_2.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_2Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner3">
+        <Texture value="Assets\Textures\UlnarInner_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_3.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_3Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner4">
+        <Texture value="Assets\Textures\UlnarInner_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_4.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner5">
+        <Texture value="Assets\Textures\UlnarInner_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_5.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner6">
+        <Texture value="Assets\Textures\UlnarInner_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_6.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_6Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner7">
+        <Texture value="Assets\Textures\UlnarInner_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_7.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_7Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarInner8">
+        <Texture value="Assets\Textures\UlnarInner_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarinner_8.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_8Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn1">
+        <Texture value="Assets\Textures\Slayn_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_1.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn2">
+        <Texture value="Assets\Textures\Slayn_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_2.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn3">
+        <Texture value="Assets\Textures\Slayn_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_3.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn4">
+        <Texture value="Assets\Textures\Slayn_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_4.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn5">
+        <Texture value="Assets\Textures\Slayn_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_5.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn6">
+        <Texture value="Assets\Textures\Slayn_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_6.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn7">
+        <Texture value="Assets\Textures\Slayn_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_7.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Slayn8">
+        <Texture value="Assets\Textures\Slayn_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-slayn_8.dds"/>
+        <Normalmap value="Assets\Textures\Slayn_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion1">
+        <Texture value="Assets\Textures\Starship_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_1.dds"/>
+        <Normalmap value="Assets\Textures\Starship_1Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion2">
+        <Texture value="Assets\Textures\Starship_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_2.dds"/>
+        <Normalmap value="Assets\Textures\Starship_2Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion3">
+        <Texture value="Assets\Textures\Starship_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_3.dds"/>
+        <Normalmap value="Assets\Textures\Starship_3Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion4">
+        <Texture value="Assets\Textures\Starship_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_4.dds"/>
+        <Normalmap value="Assets\Textures\Starship_4Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion5">
+        <Texture value="Assets\Textures\Starship_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_5.dds"/>
+        <Normalmap value="Assets\Textures\Starship_5Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion6">
+        <Texture value="Assets\Textures\Starship_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_6.dds"/>
+        <Normalmap value="Assets\Textures\Starship_6Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion7">
+        <Texture value="Assets\Textures\Starship_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_7.dds"/>
+        <Normalmap value="Assets\Textures\Starship_7Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="Trion8">
+        <Texture value="Assets\Textures\Starship_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_8.dds"/>
+        <Normalmap value="Assets\Textures\Starship_8Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros1">
+        <Texture value="Assets\Textures\Cybross_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_1.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_1Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros2">
+        <Texture value="Assets\Textures\Cybross_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_2.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_2Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros3">
+        <Texture value="Assets\Textures\Cybross_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_3.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_3Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros4">
+        <Texture value="Assets\Textures\Cybross_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_4.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_4Normal.dds"/>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros5">
+        <Texture value="Assets\Textures\Cybross_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_5.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_5Normal.dds"/>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros6">
+        <Texture value="Assets\Textures\Cybross_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_6.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_6Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros7">
+        <Texture value="Assets\Textures\Cybross_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_7.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_7Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="Cybros8">
+        <Texture value="Assets\Textures\Cybross_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_8.dds"/>
+        <Normalmap value="Assets\Textures\Cybross_8Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal1">
+        <Texture value="Assets\Textures\UlnarInner_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_1.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_1Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal2">
+        <Texture value="Assets\Textures\UlnarInner_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_2.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_2Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal3">
+        <Texture value="Assets\Textures\UlnarInner_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_3.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_3Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal4">
+        <Texture value="Assets\Textures\UlnarInner_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_4.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal5">
+        <Texture value="Assets\Textures\UlnarInner_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_5.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal6">
+        <Texture value="Assets\Textures\UlnarInner_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_6.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_6Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal7">
+        <Texture value="Assets\Textures\UlnarInner_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_7.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_7Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="UlnarPortal8">
+        <Texture value="Assets\Textures\UlnarInner_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-ulnarportal_8.dds"/>
+        <Normalmap value="Assets\Textures\UlnarInner_8Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_1">
+        <Texture value="Assets\Textures\korhalcityex2_1.dds"/>
+        <Normalmap value="Assets\Textures\korhalcityex2_1normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_1.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixMeinhoff"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_2">
+        <Texture value="Assets\Textures\KorhalCityex2_2.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_2Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_2.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixMeinhoff"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_3">
+        <Texture value="Assets\Textures\KorhalCityex2_3.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_3Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_3.dds"/>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_4">
+        <Texture value="Assets\Textures\KorhalCityex2_4.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_4Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_4.dds"/>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_5">
+        <Texture value="Assets\Textures\KorhalCityex2_5.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_5Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_5.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_6">
+        <Texture value="Assets\Textures\KorhalCityex2_6.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_6Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_6.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixMeinhoff"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_7">
+        <Texture value="Assets\Textures\KorhalCityex2_7.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_7Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_7.dds"/>
+        <DoodadEntry>
+            <Model value="DynamicGrassKorhal"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.500000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCityEx2_8">
+        <Texture value="Assets\Textures\KorhalCityex2_8.dds"/>
+        <Normalmap value="Assets\Textures\KorhalCityex2_8Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-KorhalCity_8.dds"/>
+        <DoodadEntry>
+            <Model value="RockMixMeinhoff"/>
+            <RandomRotation value="1"/>
+            <Probability value="0.250000"/>
+            <PlacementRadius value="1.000000"/>
+        </DoodadEntry>
+        <PhysicsMaterial value="Rock"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun1">
+        <Texture value="Assets\Textures\Starshipadun_01.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_1.dds"/>
+        <Normalmap value="Assets\Textures\Starshipadun_01Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun2">
+        <Texture value="Assets\Textures\Starshipadun_02.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_2.dds"/>
+        <Normalmap value="Assets\Textures\Starshipadun_02Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun3">
+        <Texture value="Assets\Textures\Starshipadun_03.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_7.dds"/>
+        <Normalmap value="Assets\Textures\Starshipadun_03Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun4">
+        <Texture value="Assets\Textures\Starshipadun_04.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_6.dds"/>
+        <Normalmap value="Assets\Textures\Starshipadun_04Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun5">
+        <Texture value="Assets\Textures\Starshipadun_05.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_5.dds"/>
+        <Normalmap value="Assets\Textures\Starshipadun_05Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun6">
+        <Texture value="Assets\Textures\Starship_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_4.dds"/>
+        <Normalmap value="Assets\Textures\Starship_4Normal.dds"/>
+        <PhysicsMaterial value="MetalHeavy"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun7">
+        <Texture value="Assets\Textures\Starship_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Starship_3.dds"/>
+        <Normalmap value="Assets\Textures\Starship_3Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="SpearOfAdun8">
+        <Texture value="Assets\Textures\AiurCity_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_2.dds"/>
+        <Normalmap value="Assets\Textures\AiurCity_2Normal.dds"/>
+        <Heightmap value="Assets\Textures\aiurcity_2normal.dds"/>
+        <HeightMapOffset value="0.300000"/>
+        <HeightMapScale value="25.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps1">
+        <Texture value="Assets\Textures\ShadowCorps1.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps1.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps1_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps2">
+        <Texture value="Assets\Textures\ShadowCorps2.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps2.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps2_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps3">
+        <Texture value="Assets\Textures\ShadowCorps3.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps3.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps3_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps4">
+        <Texture value="Assets\Textures\ShadowCorps4.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps4.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps4_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps5">
+        <Texture value="Assets\Textures\ShadowCorps5.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps5.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps5_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps6">
+        <Texture value="Assets\Textures\ShadowCorps6.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps6.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps6_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps7">
+        <Texture value="Assets\Textures\ShadowCorps7.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps7.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps7_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="ShadowCorps8">
+        <Texture value="Assets\Textures\ShadowCorps8.dds"/>
+        <EditorIcon value="Assets\Textures\ShadowCorps8.dds"/>
+        <Normalmap value="Assets\Textures\ShadowCorps8_Normal.dds"/>
+        <PhysicsMaterial value="MetalLight"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City1">
+        <Texture value="Assets\Textures\Aiur4A_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_1.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City2">
+        <Texture value="Assets\Textures\Aiur4A_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_2.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City3">
+        <Texture value="Assets\Textures\Aiur4A_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_3.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City4">
+        <Texture value="Assets\Textures\Aiur4A_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_4.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City5">
+        <Texture value="Assets\Textures\Aiur4A_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_5.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City6">
+        <Texture value="Assets\Textures\Aiur4A_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_6.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City7">
+        <Texture value="Assets\Textures\Aiur4A_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_7.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4City8">
+        <Texture value="Assets\Textures\Aiur4A_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurcity_8.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4A_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple1">
+        <Texture value="Assets\Textures\Aiur4B_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_2.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple2">
+        <Texture value="Assets\Textures\Aiur4B_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_3.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple3">
+        <Texture value="Assets\Textures\Aiur4B_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_4.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple4">
+        <Texture value="Assets\Textures\Aiur4B_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_1.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple5">
+        <Texture value="Assets\Textures\Aiur4B_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_8.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple6">
+        <Texture value="Assets\Textures\Aiur4B_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_6.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple7">
+        <Texture value="Assets\Textures\Aiur4B_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_7.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Aiur4Temple8">
+        <Texture value="Assets\Textures\Aiur4B_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_8.dds"/>
+        <Normalmap value="Assets\Textures\Aiur4B_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle1">
+        <Texture value="Assets\Textures\AiurTempleJungle_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_1.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle2">
+        <Texture value="Assets\Textures\AiurTempleJungle_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_2.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle3">
+        <Texture value="Assets\Textures\AiurTempleJungle_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_3.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle4">
+        <Texture value="Assets\Textures\AiurTempleJungle_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_4.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle5">
+        <Texture value="Assets\Textures\AiurTempleJungle_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_5.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle6">
+        <Texture value="Assets\Textures\AiurTempleJungle_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_6.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle7">
+        <Texture value="Assets\Textures\AiurTempleJungle_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_7.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="AiurTempleJungle8">
+        <Texture value="Assets\Textures\AiurTempleJungle_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-aiurtemple_8.dds"/>
+        <Normalmap value="Assets\Textures\AiurTempleJungle_8Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void1">
+        <Texture value="Assets\Textures\Void_1.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_1.dds"/>
+        <Normalmap value="Assets\Textures\Void_1Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void2">
+        <Texture value="Assets\Textures\Void_2.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_2.dds"/>
+        <Normalmap value="Assets\Textures\Void_2Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void3">
+        <Texture value="Assets\Textures\Void_3.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_3.dds"/>
+        <Normalmap value="Assets\Textures\Void_3Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void4">
+        <Texture value="Assets\Textures\Void_4.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_4.dds"/>
+        <Normalmap value="Assets\Textures\Void_4Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void5">
+        <Texture value="Assets\Textures\Void_5.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_5.dds"/>
+        <Normalmap value="Assets\Textures\Void_5Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void6">
+        <Texture value="Assets\Textures\Void_6.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_6.dds"/>
+        <Normalmap value="Assets\Textures\Void_6Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void7">
+        <Texture value="Assets\Textures\Void_7.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_7.dds"/>
+        <Normalmap value="Assets\Textures\Void_7Normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="Void8">
+        <Texture value="Assets\Textures\Void_8.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon-Void_8.dds"/>
+        <Normalmap value="Assets\Textures\Void_8Normal.dds"/>
+    </CTerrainTex>
+</Catalog>

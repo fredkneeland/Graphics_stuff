@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CModel id="AiurFoliage_Ex2" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="AiurTree">
+    </CModel>
+    <CModel id="AiurTree_Ex2" parent="Doodad">
+        <VariationCount value="8"/>
+    </CModel>
+    <CModel id="AiurTree_Grouped" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="Aiur_Building_Spinning" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Aiur_CityBuilding_Floating_Temple_Abandoned" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_CityBuilding_Temple_Abandoned" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Aiur_City_Weeds" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="Aiur_Cliff_Waterfall_Corrupted" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Aiur_GroundCover" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Overgrowth" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="Aiur_Plantlife" parent="Doodad">
+        <VariationCount value="17"/>
+    </CModel>
+    <CModel id="Aiur_Ramp_Stairs" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Aiur_Stone_Temple_Rubble" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Aiur_Stone_Temple_Shrine" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Stone_Temple_Shrine_Destroyed" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Aiur_Temple_BrickGroup" parent="Doodad">
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="Aiur_Temple_BridgeArch" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Temple_BridgeSection" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_Temple_GiantWalls_Long" parent="Doodad">
+        <VariationCount value="7"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Inlay_PowerUP" parent="Doodad"/>
+    <CModel id="Aiur_Temple_OldWalls" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Platform" parent="Doodad"/>
+    <CModel id="Aiur_Temple_Small_Pillar" parent="Doodad">
+        <VariationCount value="8"/>
+    </CModel>
+    <CModel id="Aiur_Trees_Log" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Trees_Log_Small" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="CollapsibleRockTower">
+        <Radius value="2.000000"/>
+    </CModel>
+    <CModel id="CollapsibleRockTowerDiagonal">
+        <Radius value="2.000000"/>
+    </CModel>
+    <CModel id="CollapsibleRockTowerRampLeft">
+        <Radius value="2.000000"/>
+    </CModel>
+    <CModel id="CollapsibleRockTowerRampRight">
+        <Radius value="2.000000"/>
+    </CModel>
+    <CModel id="GuardianShield">
+        <Model value="Assets\Effects\Protoss\SentryShieldBubble_Ex2\SentryShieldBubble_Ex2.m3"/>
+    </CModel>
+    <CModel id="Korhal_SpacePort_Plane_Destroyed" parent="Doodad">
+        <VariationCount value="8"/>
+    </CModel>
+    <CModel id="Marauder">
+        <RequiredAnims value="Assets\Units\Terran\Marauder_VoidAnims\Marauder_VoidAnims.m3a"/>
+    </CModel>
+    <CModel id="MoebiusLabArmoredGenerator" parent="Doodad"/>
+    <CModel id="OracleRevelationBehaviorModel">
+        <Model value="Assets\Effects\Protoss\Revelation_Ex2\Revelation_Ex2.m3"/>
+    </CModel>
+    <CModel id="PurificationNovaImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\Disruptor_PurificationNova_Impact\Disruptor_PurificationNova_Impact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="PurificationNovaModelSwap" parent="Unit">
+        <Model value="Assets\Units\Protoss\Disruptor_PhaseMode\Disruptor_PhaseMode.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Radius value="0.375000"/>
+        <SelectionRadius value="0.416500"/>
+        <ShadowRadius value="0.416500"/>
+    </CModel>
+    <CModel id="PurificationNovaRangeIndicator" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\Disruptor_PhaseMode_Cursor\Disruptor_PhaseMode_Cursor.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="1.200000,1.200000,1.200000"/>
+        <ScaleMin value="1.200000,1.200000,1.200000"/>
+        <Radius value="2.500000"/>
+        <RadiusLoose value="2.500000"/>
+    </CModel>
+    <CModel id="PurificationNova" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Disruptor_PurificationNova\Disruptor_PurificationNova.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Radius value="2.500000"/>
+        <RadiusLoose value="2.500000"/>
+    </CModel>
+    <CModel id="PurificationNovaBirth" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Disruptor_PhaseMode_Birth\Disruptor_PhaseMode_Birth.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="CloakingFieldTargeted" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\TemporalField\TemporalField.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="1.600000,1.600000,1.600000"/>
+        <ScaleMin value="1.600000,1.600000,1.600000"/>
+    </CModel>
+    <CModel id="HERC" parent="Unit" Race="Terran">
+        <Occlusion value="Show"/>
+        <PlanetPanelCamera value="Star2CameraHigh04"/>
+        <Radius value="0.600000"/>
+        <SelectionRadius value="0.600000"/>
+        <ShadowRadius value="0.600000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <UnitGlossaryCamera value="Star2CameraHigh04"/>
+    </CModel>
+    <CModel id="HERCDeath" parent="UnitDeath" Race="Terran">
+        <Model value="Assets\Units\Terran\HERC_Death\HERC_Death.m3"/>
+        <LowQualityModel value="TerranSmallUnitDeathLow"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="HERCAttackLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\HERC_Gun_Launch\HERC_Gun_Launch.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="HERCAttackLaunchUpgrade" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\HERC_Gun_Upgrade_Launch\HERC_Gun_Upgrade_Launch.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="Korhal_Platform_CliffStructures" parent="Doodad">
+        <VariationCount value="8"/>
+    </CModel>
+    <CModel id="LurkerMP">
+        <Tipability value="0.750000"/>
+        <TipabilityLength value="1.000000"/>
+        <TipabilityWidth value="1.000000"/>
+        <Model value="Assets\Units\Zerg\Lurker_Ex2\Lurker_Ex2.m3"/>
+    </CModel>
+    <CModel id="LurkerMPDeathAcid">
+        <Model value="Assets\Units\Zerg\LurkerDeath_Ex2_Acid\LurkerDeath_Ex2_Acid.m3"/>
+    </CModel>
+    <CModel id="LurkerMPDeathFire">
+        <Model value="Assets\Units\Zerg\LurkerDeath_Ex2_Fire\LurkerDeath_Ex2_Fire.m3"/>
+    </CModel>
+    <CModel id="LurkerMPDeath">
+        <Model value="Assets\Units\Zerg\Lurker_Death_Ex2\Lurker_Death_Ex2.m3"/>
+    </CModel>
+    <CModel id="HydraliskImpaleIndicator" parent="OneShotSpellFX">
+        <Model value="Assets\UI\BossTargetCursorSplat\BossTargetCursorSplat.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="ImmortalOverload" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\ImmortalShield\ImmortalShield.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Flags index="CloakedDetectedIsFullyVisible" value="1"/>
+        <Flags index="CloakedUndetectedIsHidden" value="1"/>
+    </CModel>
+    <CModel id="CycloneTargetingBeam" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\Cyclone_TargetingBeam\Cyclone_TargetingBeam.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="LocustMPFlying" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\SwarmHostSpawnFlyer\SwarmHostSpawnFlyer.m3"/>
+        <Events>
+            <Anim value="Birth"/>
+            <Name value="Locust_EggBurst"/>
+            <Type value="Sound"/>
+            <Time value="0.010000"/>
+            <Payload value="Locust_EggBurst"/>
+        </Events>
+        <PlanetPanelCamera value="Star2CameraMid05"/>
+        <Radius value="0.375000"/>
+        <ScaleMax value="0.900000,0.900000,0.900000"/>
+        <ScaleMin value="0.900000,0.900000,0.900000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <TechPurchaseCamera value="Star2CameraMid05"/>
+        <Tipability value="0.750000"/>
+        <TipabilityLength value="0.375000"/>
+        <TipabilityWidth value="0.375000"/>
+        <UnitGlossaryCamera value="Star2CameraMid05"/>
+    </CModel>
+    <CModel id="LocustMPFlyingDeath" parent="UnitDeath" Race="Zerg">
+        <Model value="Assets\Units\Zerg\SwarmHostSpawnFlyerDeath\SwarmHostSpawnFlyerDeath.m3"/>
+        <LowQualityModel value="ZergSmallUnitDeathLow"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="OraclePhaseShift" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\StasisField\StasisField.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="ProtossAOECursorSplat">
+        <ScaleMax value="0.220000,0.220000,0.220000"/>
+        <ScaleMin value="0.220000,0.220000,0.220000"/>
+    </CModel>
+    <CModel id="Purifier_Force_Field_Pillar" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="ReleaseInterceptorsCooldown" parent="PersistentSpellFX">
+        <Model value="Assets\Units\Protoss\CarrierWarpInStargate\CarrierWarpInStargate.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+    </CModel>
+    <CModel id="ReleaseInterceptorsBeacon" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\WidowMineTimerUI\WidowMineTimerUI.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="1.500000,1.500000,1.500000"/>
+        <ScaleMin value="1.500000,1.500000,1.500000"/>
+    </CModel>
+    <CModel id="ReleaseInterceptorsBeaconAddition" parent="PersistentSpellFX">
+        <Model value="Assets\UI\Feedback\AIBeaconAssault\AIBeaconAssault.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.866000,0.866000,0.866000"/>
+        <ScaleMin value="0.866000,0.866000,0.866000"/>
+    </CModel>
+    <CModel id="Aiur_Temple_StatueDeath" parent="Doodad"/>
+    <CModel id="Slayn_Temple_Banners_Slow" parent="Doodad">
+        <VariationCount value="7"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_Blue" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_Blue_Blink" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_Green" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_Green_Blink" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_White" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="SpacePlatform_Lantern_White_Blink" parent="Doodad">
+        <VariationCount value="11"/>
+    </CModel>
+    <CModel id="Shakuras_City_Debris_Splat" parent="Doodad"/>
+    <CModel id="Shakuras_Temple_CliffDoodads_Destructible" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Shakuras_Vines_Cliffs_Windy" parent="Doodad"/>
+    <CModel id="Slayn_TallGrassWindy" parent="Doodad">
+        <VariationCount value="8"/>
+    </CModel>
+    <CModel id="Slayn_Temple_Bricks_Anim" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Slayn_Temple_CliffDoodads_Small" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Slayn_Temple_Deco" parent="Doodad">
+        <VariationCount value="17"/>
+    </CModel>
+    <CModel id="SpearofAdun_Hologram" parent="Doodad"/>
+    <CModel id="CycloneDeath" parent="UnitDeath">
+        <Model value="Assets\Units\Terran\Cyclone_Death\Cyclone_Death.m3"/>
+        <LowQualityModel value="TerranLargeUnitDeathLow"/>
+        <EditorCategories value="Race:Terran"/>
+        <Occlusion value="Show"/>
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Cyclone" parent="Unit" Race="Terran">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.700000"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="CycloneMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\Cyclone_Missile\Cyclone_Missile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="CycloneMissileLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\Cyclone_Missile_Launch\Cyclone_Missile_Launch.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="CycloneMissileImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\Cyclone_Missile_Impact\Cyclone_Missile_Impact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="ReplicantDeath" parent="UnitDeath" Race="Protoss">
+        <Model value="Assets\Units\Protoss\SentryDeathEx1\SentryDeathEx1.m3"/>
+        <LowQualityModel value="ProtossSpiritDeathLow"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.555400"/>
+        <ShadowRadius value="0.555400"/>
+    </CModel>
+    <CModel id="ReplicantPortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Protoss\ObserverPortrait\ObserverPortrait.m3"/>
+        <Image value="Assets\Textures\observerportrait_static.dds"/>
+    </CModel>
+    <CModel id="250mmStrikeCannonsAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\WarHoundHaywireMissileImpact\WarHoundHaywireMissileImpact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="250mmStrikeCannonsAttackLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\WarHoundHaywireMissileLaunch\WarHoundHaywireMissileLaunch.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="250mmStrikeCannonsMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\WarHoundHaywireMissile\WarHoundHaywireMissile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="CorruptionBombImpact" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\KerriganCorrosiveSporesImpact\KerriganCorrosiveSporesImpact.m3"/>
+    </CModel>
+    <CModel id="CorruptionBombPersistent" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\KerriganCorrosiveSpores\KerriganCorrosiveSpores.m3"/>
+        <ScaleMax value="1.000000,1.000000,0.300000"/>
+        <ScaleMin value="1.000000,1.000000,0.300000"/>
+    </CModel>
+    <CModel id="ForceAwayBeam">
+        <Model value="Assets\Effects\Protoss\TractorBeam\TractorBeam.m3"/>
+    </CModel>
+    <CModel id="BattleCruiserTacticalJump_Placement">
+        <Model value="Assets\Effects\Terran\BattleCruiserTacticalJump_Placement\BattleCruiserTacticalJump_Placement.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="BattleCruiserTacticalJumpYamato_Placement">
+        <Model value="Assets\Effects\Terran\BattleCruiserTacticalJumpYamato_Placement\BattleCruiserTacticalJumpYamato_Placement.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="HyperjumpImpact">
+        <Model value="Assets\Effects\Terran\Battlecruiser_Hyperjump_In\Battlecruiser_Hyperjump_In.m3"/>
+    </CModel>
+    <CModel id="HyperjumpLaunch">
+        <Model value="Assets\Effects\Terran\Battlecruiser_Hyperjump_Out\Battlecruiser_Hyperjump_Out.m3"/>
+    </CModel>
+    <CModel id="HyperjumpImpactUpgraded">
+        <Model value="Assets\Effects\Terran\BattlecruiserYamato_Hyperjump_In\BattlecruiserYamato_Hyperjump_In.m3"/>
+    </CModel>
+    <CModel id="HyperjumpLaunchUpgraded">
+        <Model value="Assets\Effects\Terran\BattlecruiserYamato_Hyperjump_Out\BattlecruiserYamato_Hyperjump_Out.m3"/>
+    </CModel>
+    <CModel id="InterceptorAttackBeam2" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\InterceptorMissile\InterceptorMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="BombingPlatformBuild" parent="TerranBuildingBuild">
+        <Radius value="2.000000"/>
+        <SelectionRadius value="2.000000"/>
+        <ShadowRadius value="2.000000"/>
+    </CModel>
+    <CModel id="OracleWeaponBehaviorModel" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\OracleBeamIndicator\OracleBeamIndicator.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.650000,0.650000,0.650000"/>
+        <ScaleMin value="0.650000,0.650000,0.650000"/>
+    </CModel>
+    <CModel id="BattlecruiserYamatoAttackImpact"/>
+    <CModel id="BlindingCloud">
+        <ScaleMax value="0.550000,0.550000,0.550000"/>
+        <ScaleMin value="0.550000,0.550000,0.550000"/>
+    </CModel>
+    <CModel id="CorruptionModel">
+        <Model value="Assets\Effects\Zerg\DiseaseCloud\DiseaseCloud.m3"/>
+    </CModel>
+    <CModel id="MothershipCore">
+        <ScaleMax value="0.900000,0.900000,0.900000"/>
+        <ScaleMin value="0.900000,0.900000,0.900000"/>
+    </CModel>
+    <CModel id="CommandPlayerDecal">
+        <Model value="Assets\Effects\Terran\DecalTagSplat_Terran\DecalTagSplat_Terran.m3"/>
+    </CModel>
+    <CModel id="Hatchery">
+        <Model value="Assets\Buildings\Zerg\HatcheryEx1MP\HatcheryEx1MP.m3"/>
+    </CModel>
+    <CModel id="Lair">
+        <Model value="Assets\Buildings\Zerg\HatcheryEx1MP\HatcheryEx1MP.m3"/>
+    </CModel>
+    <CModel id="Hive">
+        <Model value="Assets\Buildings\Zerg\HatcheryEx1MP\HatcheryEx1MP.m3"/>
+    </CModel>
+    <CModel id="HatcheryPlayerDecal">
+        <Model value="Assets\Effects\Zerg\DecalTagSplat_Zerg\DecalTagSplat_Zerg.m3"/>
+    </CModel>
+    <CModel id="NexusPlayerDecal">
+        <Model value="Assets\Effects\Protoss\DecalTagSplat_Protoss\DecalTagSplat_Protoss.m3"/>
+    </CModel>
+    <CModel id="OracleAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\MotherShipCoreMissileImpact\MotherShipCoreMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="OracleWeapon" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\MotherShipCoreMissile\MotherShipCoreMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="PhaseShieldImpactModel" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\PlasmaSurgeImpact\PlasmaSurgeImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Lighting value="RestoreShieldsImpactModel"/>
+        <ScaleMax value="0.700000,0.700000,0.700000"/>
+        <ScaleMin value="0.700000,0.700000,0.700000"/>
+    </CModel>
+    <CModel id="PhaseShieldPersistModel" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\PlasmaSurgeLaunch\PlasmaSurgeLaunch.m3"/>
+        <AnimSpeed value="2.800000"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Lighting value="RestoreShieldsAttachmentModel"/>
+        <ScaleMax value="0.300000,0.300000,0.300000"/>
+        <ScaleMin value="0.300000,0.300000,0.300000"/>
+    </CModel>
+    <CModel id="SpineCrawler">
+        <ScaleMax value="0.950000,0.950000,0.950000"/>
+        <ScaleMin value="0.950000,0.950000,0.950000"/>
+    </CModel>
+    <CModel id="SpineCrawlerPlacement">
+        <ScaleMax value="0.950000,0.950000,0.950000"/>
+        <ScaleMin value="0.950000,0.950000,0.950000"/>
+    </CModel>
+    <CModel id="Tempest"/>
+    <CModel id="TempestWeaponGround" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\TempestGroundMissile\TempestGroundMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="TempestGroundAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\TempestGroundMissileImpact\TempestGroundMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="TemporalRiftModel">
+        <ScaleMax value="0.600000,0.600000,0.600000"/>
+        <ScaleMin value="0.600000,0.600000,0.600000"/>
+    </CModel>
+    <CModel id="Thor">
+        <AttachProps Id="Ref_Weapon 01">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 02">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 03">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 04">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+        <RequiredAnims value="Assets\Units\Terran\Thor_VoidAnims\Thor_VoidAnims.m3a"/>
+    </CModel>
+    <CModel id="ThorAAAttackImpactLance" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\ThorAirCannonImpact\ThorAirCannonImpact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="ThorAAAttackLaunchLance" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\ThorArmMissileLaunch\ThorArmMissileLaunch.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="ThorAAWeaponLance" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\MissileTurretMissile\MissileTurretMissile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="ThorCE">
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+        <AttachProps Id="Ref_Weapon 01">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 02">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 03">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 04">
+            <Keys index="SetA" value="2"/>
+        </AttachProps>
+    </CModel>
+    <CModel id="ThorCETransit">
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="ThorTransit">
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="TornadoMissileWeapon"/>
+    <CModel id="RipFieldAttackBeam" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\PulsarBeam\PulsarBeam.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <SelectionRadius value="0.714000"/>
+        <ShadowRadius value="0.714000"/>
+        <RadiusLoose value="1.000000"/>
+    </CModel>
+    <CModel id="Ravager" parent="Unit" Race="Zerg">
+        <Occlusion value="Show"/>
+        <Radius value="0.750000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <UnitGlossaryCamera value="Star2CameraMid08"/>
+    </CModel>
+    <CModel id="RavagerCocoon" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\Ravager_Egg\Ravager_Egg.m3"/>
+        <Occlusion value="Show"/>
+        <Radius value="0.600000"/>
+        <SelectionRadius value="0.625000"/>
+        <ShadowRadius value="0.625000"/>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="RavagerCocoonDeath" parent="UnitDeath">
+        <Model value="Assets\Units\Zerg\Ravager_Egg_Death\Ravager_Egg_Death.m3"/>
+        <LowQualityModel value="ZergSmallUnitDeathLow"/>
+        <EditorCategories value="Race:Zerg"/>
+        <Occlusion value="Show"/>
+        <Radius value="0.600000"/>
+        <SelectionRadius value="0.625000"/>
+        <ShadowRadius value="0.625000"/>
+    </CModel>
+    <CModel id="RavagerDeath" parent="UnitDeath">
+        <Model value="Assets\Units\Zerg\Ravager_Death\Ravager_Death.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <SquibTypeDefault value="Flesh"/>
+        <LowQualityModel value="ZergMediumUnitDeathLow"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="RavagerCorrosiveBilePrecursor" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\Ravager_Artillery_Marker\Ravager_Artillery_Marker.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <RadiusLoose value="0.500000"/>
+    </CModel>
+    <CModel id="RavagerCorrosiveBileImpact" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Zerg\Ravager_Artillery_Missile_Impact\Ravager_Artillery_Missile_Impact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <RadiusLoose value="0.500000"/>
+    </CModel>
+    <CModel id="RavagerCorrosiveBileMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\Ravager_Artillery_Missile\Ravager_Artillery_Missile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="RavagerWeaponMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\Ravager_Missile\Ravager_Missile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="RavagerWeaponImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\Ravager_Missile_Impact\Ravager_Missile_Impact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="Void_Ground_Cracks" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Void_ShadowRock" parent="Doodad"/>
+    <CModel id="VortexKill" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\SingularityAreaImpact\SingularityAreaImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.200000,0.200000,0.200000"/>
+        <ScaleMin value="0.200000,0.200000,0.200000"/>
+    </CModel>
+    <CModel id="LocustMP">
+        <Radius value="0.375000"/>
+    </CModel>
+    <CModel id="Broodling">
+        <Radius value="0.312500"/>
+    </CModel>
+    <CModel id="Disruptor" parent="Unit" Race="Protoss">
+        <Occlusion value="Show"/>
+        <PlanetPanelCamera value="Star2CameraHigh08"/>
+        <Radius value="0.625000"/>
+        <ScaleMax value="1.350000,1.350000,1.350000"/>
+        <ScaleMin value="1.350000,1.350000,1.350000"/>
+        <SelectionRadius value="0.416500"/>
+        <ShadowRadius value="0.416500"/>
+        <SquibTypeDefault value="Metal"/>
+        <TechPurchaseCamera value="Star2CameraHigh08"/>
+        <UnitGlossaryCamera value="Star2CameraHigh08"/>
+    </CModel>
+    <CModel id="DisruptorPortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Protoss\DisruptorEx2_Portrait\DisruptorEx2_Portrait.m3"/>
+    </CModel>
+    <CModel id="ZergSpireLarge">
+        <Occlusion value="Hide"/>
+    </CModel>
+    <CModel id="MedivacHealBeamUpgrade" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\MedivacBeamUpgrade\MedivacBeamUpgrade.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <RadiusLoose value="1.000000"/>
+    </CModel>
+    <CModel id="WidowMineBurrowedSplat" parent="BurrowedSplat">
+        <Model value="Assets\Splats\WidowMineBurrowedSplat\WidowMineBurrowedSplat.m3"/>
+        <VariationCount value="1"/>
+    </CModel>
+    <CModel id="OracleEnvision" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\Envision\Envision.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="HydraliskImpaleMissileGroundCracks" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\PrimalLurkerMissile\PrimalLurkerMissile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="HydraliskImpaleAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\PrimalSunkenColonyAttackImpact\PrimalSunkenColonyAttackImpact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.250000,0.250000,0.250000"/>
+        <ScaleMin value="0.250000,0.250000,0.250000"/>
+    </CModel>
+    <CModel id="ProtossLargeUnitDeathLow"/>
+    <CModel id="ZergLargeUnitDeathLow"/>
+    <CModel id="ZergMediumUnitDeathLow"/>
+    <CModel id="TerranLargeUnitDeathLow"/>
+    <CModel id="Korhal_SpacePort_SmallPlane" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="Aiur_Temple_CliffDoodads" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Bricks" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Buildings_Destroyed" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Bigwalls" parent="Doodad">
+        <VariationCount value="14"/>
+    </CModel>
+    <CModel id="Aiur_Vines_Cliff" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_Temple_StoneGate" parent="Doodad"/>
+    <CModel id="Aiur_Temple_GroundDoor" parent="Doodad"/>
+    <CModel id="Aiur_Temple_Statue_ZealotBust" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Statue_ZealotBust_Crumbled" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="Aiur_Temple_Pillars" parent="Doodad">
+        <VariationCount value="4"/>
+    </CModel>
+    <CModel id="Aiur_Vines" parent="Doodad">
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="AiurTempleBridge" parent="Unit" Race="Terran">
+        <Model value="Assets\Doodads\Aiur_Temple_Bridge\Aiur_Temple_Bridge.m3"/>
+        <Flags index="AdjustTerrain" value="1"/>
+        <Flags index="ShowCreepEngulfmentEvenOnLow" value="1"/>
+        <SelectionRadius value="6.000000"/>
+        <ShadowRadius value="6.000000"/>
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="TestModel1" parent="Doodad"/>
+    <CModel id="TestModel2" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="TestModel3" parent="Doodad">
+        <VariationCount value="3"/>
+    </CModel>
+    <CModel id="TestModel1A" parent="Doodad"/>
+    <CModel id="TestModel1B" parent="Doodad"/>
+    <CModel id="TestModel1C" parent="Doodad"/>
+    <CModel id="TestModel1D" parent="Doodad"/>
+    <CModel id="Aiur_Cliff_Waterfall" parent="Doodad">
+        <VariationCount value="2"/>
+    </CModel>
+    <CModel id="Aiur_Temple_GiantWalls" parent="Doodad">
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="CorsairMPDeath" parent="UnitDeath" Race="Protoss">
+        <Model value="Assets\Units\Protoss\Corsair_Void_Death\Corsair_Void_Death.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <LowQualityModel value="ProtossMediumUnitDeathLow"/>
+    </CModel>
+    <CModel id="CorsairMPAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\PhoenixMissileImpact\PhoenixMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="CorsairMPAttackLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\MarineWeaponLaunch\MarineWeaponLaunch.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="CorsairMPWarpIn" parent="OneShotSpellFX">
+        <Model value="Assets\Units\Protoss\CorsairWarpIn\CorsairWarpIn.m3"/>
+        <Occlusion value="Show"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <EditorCategories value="Race:Protoss"/>
+        <LowQualityModel value="ProtossUnitBirth"/>
+        <SelectionOffset value="0.000000,0.000000,-0.750000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="CorsairMPWarpInStargate" parent="PersistentSpellFX">
+        <Model value="Assets\Units\Protoss\CorsairWarpInStargate\CorsairWarpInStargate.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <TechPurchaseCamera value="Star2CameraLow07"/>
+        <UnitGlossaryCamera value="Star2CameraLow07"/>
+        <PlanetPanelCamera value="Star2CameraLow07"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="CorsairMPDisruptionWebImpact">
+        <EditorCategories value="Race:Protoss"/>
+        <Model value="Assets\Effects\Zerg\DisablingCloud\DisablingCloud.m3"/>
+        <ScaleMax value="0.800000,0.800000,0.300000"/>
+        <ScaleMin value="0.800000,0.800000,0.300000"/>
+    </CModel>
+    <CModel id="ScoutMP" parent="Unit" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <TechPurchaseCamera value="Star2CameraLow05"/>
+        <UnitGlossaryCamera value="Star2CameraLow05"/>
+        <PlanetPanelCamera value="Star2CameraLow05"/>
+        <ShadowRadius value="0.750000"/>
+        <Model value="Assets\Units\Protoss\DarkScout\DarkScout.m3"/>
+    </CModel>
+    <CModel id="ScoutMPWarpIn" parent="OneShotSpellFX">
+        <Model value="Assets\Units\Protoss\ScoutWarpIn\ScoutWarpIn.m3"/>
+        <Occlusion value="Show"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <EditorCategories value="Race:Protoss"/>
+        <LowQualityModel value="ProtossUnitBirth"/>
+        <SelectionOffset value="0.000000,0.000000,-0.750000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="ScoutMPWarpInStargate" parent="PersistentSpellFX">
+        <Model value="Assets\Units\Protoss\ScoutWarpInStargate\ScoutWarpInStargate.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <TechPurchaseCamera value="Star2CameraLow07"/>
+        <UnitGlossaryCamera value="Star2CameraLow07"/>
+        <PlanetPanelCamera value="Star2CameraLow07"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="ScoutMPDeath" parent="UnitDeath" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <LowQualityModel value="ProtossMediumUnitDeathLow"/>
+        <Model value="Assets\Units\Protoss\DarkScoutDeath\DarkScoutDeath.m3"/>
+    </CModel>
+    <CModel id="ScoutMPAirWeaponLeft" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\GriffonFighterMissile\GriffonFighterMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ScoutMPAirWeaponRight" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\GriffonFighterMissile\GriffonFighterMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ScoutMPAirMissileImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\PhoenixMissileImpact\PhoenixMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ScoutMPGroundAttackLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Terran\VikingAssaultWeaponLaunch\VikingAssaultWeaponLaunch.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ScoutMPGroundAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\VikingAssaultWeaponImpact\VikingAssaultWeaponImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ScoutMPPortrait" parent="Portrait" Race="Protoss"/>
+    <CModel id="ScoutMPAirLeftAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\PhoenixMissileImpact\PhoenixMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ArbiterMPWarpIn" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\ProtossUnitWarpIn\ProtossUnitWarpIn.m3"/>
+        <Occlusion value="Show"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <EditorCategories value="Race:Protoss"/>
+        <LowQualityModel value="ProtossUnitBirth"/>
+        <SelectionOffset value="0.000000,0.000000,-0.750000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="ArbiterMPWarpInStargate" parent="PersistentSpellFX">
+        <Model value="Assets\Units\Protoss\ArbiterWarpInStargate\ArbiterWarpInStargate.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <TechPurchaseCamera value="Star2CameraLow07"/>
+        <UnitGlossaryCamera value="Star2CameraLow07"/>
+        <PlanetPanelCamera value="Star2CameraLow07"/>
+        <ShadowRadius value="0.750000"/>
+    </CModel>
+    <CModel id="ArbiterMPDeath" parent="UnitDeath" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <LowQualityModel value="ProtossMediumUnitDeathLow"/>
+        <Model value="Assets\Units\Protoss\ProtossFrigateDeath\ProtossFrigateDeath.m3"/>
+    </CModel>
+    <CModel id="ArbiterMPWeaponImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Protoss\PhotonCannonMissileImpact\PhotonCannonMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ArbiterMPWeaponLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Protoss\ArbiterWeaponLaunch\ArbiterWeaponLaunch.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="ArbiterMPWeaponMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\PhotonMissile\PhotonMissile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="1.500000,1.500000,1.500000"/>
+        <ScaleMin value="1.500000,1.500000,1.500000"/>
+    </CModel>
+    <CModel id="ArbiterMPRecalledImpact" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\RecallImpactIn\RecallImpactIn.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.750000,0.750000,0.750000"/>
+        <ScaleMin value="0.750000,0.750000,0.750000"/>
+    </CModel>
+    <CModel id="ArbiterMPRecallingImpact" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\RecallImpactOut\RecallImpactOut.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.750000,0.750000,0.750000"/>
+        <ScaleMin value="0.750000,0.750000,0.750000"/>
+    </CModel>
+    <CModel id="ArbiterMPStasisFieldImpact">
+        <Model value="Assets\Effects\Protoss\ForceFieldImpact\ForceFieldImpact.m3"/>
+        <ScaleMax value="0.200000,0.200000,0.200000"/>
+        <ScaleMin value="0.200000,0.200000,0.200000"/>
+    </CModel>
+    <CModel id="GuardianMP" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\Guardian\Guardian.m3"/>
+        <AnimBlendTime value="0.400000"/>
+        <Occlusion value="Show"/>
+        <PlanetPanelCamera value="Star2CameraLow08"/>
+        <Radius value="0.850000"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <SelectionOffset value="0.000000,0.000000,-0.700000"/>
+        <SelectionRadius value="1.000000"/>
+        <ShadowRadius value="1.000000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <TechPurchaseCamera value="Star2CameraLow08"/>
+        <Tipability value="0.750000"/>
+        <UnitGlossaryCamera value="Star2CameraLow08"/>
+    </CModel>
+    <CModel id="GuardianMPDeath" parent="UnitDeath" Race="Zerg">
+        <Model value="Assets\Units\Zerg\GuardianDeath\GuardianDeath.m3"/>
+        <LowQualityModel value="ZergLargeUnitDeathLow"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="GuardianMPPortrait" parent="Portrait">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Portraits\Zerg\PrimalGuardianPortrait\PrimalGuardianPortrait.m3"/>
+    </CModel>
+    <CModel id="GuardianMPWeaponMissile" parent="Unit" Race="Zerg">
+        <Model value="Assets\Effects\Zerg\PrimalGuardianMissile\PrimalGuardianMissile.m3"/>
+        <Occlusion value="Show"/>
+        <Radius value="0.250000"/>
+        <SelectionRadius value="0.250000"/>
+        <ShadowRadius value="0.250000"/>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="GuardianMPWeaponImpact" parent="ImpactFX">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Effects\Zerg\PrimalGuardianMissileImpact\PrimalGuardianMissileImpact.m3"/>
+    </CModel>
+    <CModel id="GuardianCocoonMP" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\BroodLordEgg\BroodLordEgg.m3"/>
+        <Occlusion value="Show"/>
+        <Radius value="0.625000"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <SelectionOffset value="0.000000,0.000000,-0.400000"/>
+        <SelectionRadius value="0.735000"/>
+        <ShadowRadius value="0.735000"/>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="GuardianCocoonMPDeath" parent="UnitDeath">
+        <Model value="Assets\Units\Zerg\BroodLordEgg\BroodLordEgg.m3"/>
+        <LowQualityModel value="ZergMediumUnitDeathLow"/>
+        <EditorCategories value="Race:Zerg"/>
+        <Occlusion value="Show"/>
+        <SelectionOffset value="0.000000,0.000000,-0.400000"/>
+        <SelectionRadius value="0.735000"/>
+        <ShadowRadius value="0.735000"/>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="DevourerMP" parent="Unit" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.875000"/>
+        <Radius value="0.875000"/>
+        <TechPurchaseCamera value="Star2CameraLow05"/>
+        <UnitGlossaryCamera value="Star2CameraLow05"/>
+        <PlanetPanelCamera value="Star2CameraLow05"/>
+        <ShadowRadius value="0.875000"/>
+        <Model value="Assets\Units\Zerg\Devourer\Devourer.m3"/>
+    </CModel>
+    <CModel id="DevourerMPDeath" parent="UnitDeath" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.750000"/>
+        <Radius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <LowQualityModel value="ProtossMediumUnitDeathLow"/>
+        <Model value="Assets\Effects\Zerg\ZergLargeUnitDeath\ZergLargeUnitDeath.m3"/>
+    </CModel>
+    <CModel id="DevourerMPWeaponImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\StukovMissileImpact\StukovMissileImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="DevourerMPWeaponLaunch" parent="LaunchFX">
+        <Model value="Assets\Effects\Protoss\DevourerWeaponLaunch\DevourerWeaponLaunch.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="DevourerMPWeaponMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\RoachMissileEx1B\RoachMissileEx1B.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="1.500000,1.500000,1.500000"/>
+        <ScaleMin value="1.500000,1.500000,1.500000"/>
+    </CModel>
+    <CModel id="DevourerMPPortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Zerg\BroodLordPortrait\BroodLordPortrait.m3"/>
+    </CModel>
+    <CModel id="DevourerMPAcidSporesImpact" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\CorrosiveBileImpactB\CorrosiveBileImpactB.m3"/>
+    </CModel>
+    <CModel id="DevourerCocoonMP" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\BroodLordEgg\BroodLordEgg.m3"/>
+        <Occlusion value="Show"/>
+        <Radius value="0.625000"/>
+        <ScaleMax value="0.850000,0.850000,0.850000"/>
+        <ScaleMin value="0.850000,0.850000,0.850000"/>
+        <SelectionOffset value="0.000000,0.000000,-0.400000"/>
+        <SelectionRadius value="0.735000"/>
+        <ShadowRadius value="0.735000"/>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="ScourgeMP" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\Splitterling\Splitterling.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionOffset value="0.000000,0.000000,-0.350000"/>
+        <SelectionRadius value="0.300000"/>
+        <ShadowRadius value="0.300000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <Tipability value="0.750000"/>
+    </CModel>
+    <CModel id="ScourgeMPDeath" parent="UnitDeath" Race="Zerg">
+        <Model value="Assets\Effects\Zerg\ZergSmallUnitDeath\ZergSmallUnitDeath_Low.m3"/>
+        <LowQualityModel value="ZergSmallUnitDeathLow"/>
+        <Occlusion value="Show"/>
+        <ScaleMax value="0.750000,0.750000,0.750000"/>
+        <ScaleMin value="0.750000,0.750000,0.750000"/>
+    </CModel>
+    <CModel id="ScourgeMPPortrait" parent="Portrait" Race="Zerg">
+        <Model value="Assets\Portraits\Zerg\SwarmHostSpawnPortrait\SwarmHostSpawnPortrait.m3"/>
+    </CModel>
+    <CModel id="ScourgeMPAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Units\Zerg\SplitterlingDeath\SplitterlingDeath.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.400000,0.400000,0.400000"/>
+        <ScaleMin value="0.400000,0.400000,0.400000"/>
+    </CModel>
+    <CModel id="DefilerMP" parent="Unit">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Units\Critters\ScantipedeEx1\ScantipedeEx1.m3"/>
+        <ScaleMax value="1.750000,1.750000,1.750000"/>
+        <ScaleMin value="1.750000,1.750000,1.750000"/>
+    </CModel>
+    <CModel id="DefilerMPDeath" parent="UnitDeath">
+        <Model value="Assets\Units\Critters\ScantipedeDeath\ScantipedeDeath.m3"/>
+        <LowQualityModel value="ZergSmallUnitDeathLow"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="DefilerMPConsume" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Zerg\WildMutationImpactAir\WildMutationImpactAir.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.750000,0.750000,0.750000"/>
+        <ScaleMin value="0.750000,0.750000,0.750000"/>
+    </CModel>
+    <CModel id="DefilerMPConsumeImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\MendImpact\MendImpact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="DefilerMPDarkSwarm" parent="PersistentSpellFX">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Effects\Zerg\DisablingCloud\DisablingCloud.m3"/>
+    </CModel>
+    <CModel id="DefilerMPPlagueImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\FungalGrowthMissileImpact\FungalGrowthMissileImpact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+        <ScaleMax value="0.600000,0.600000,0.600000"/>
+        <ScaleMin value="0.600000,0.600000,0.600000"/>
+    </CModel>
+    <CModel id="DefilerMPPlaguePersistent" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\FungalGrowth\FungalGrowth.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="QueenMP" parent="Unit" Race="Zerg">
+        <Model value="Assets\Units\Zerg\QueenClassic\QueenClassic.m3"/>
+        <Occlusion value="Show"/>
+        <SelectionOffset value="0.000000,0.000000,-0.350000"/>
+        <SquibTypeDefault value="Flesh"/>
+        <Tipability value="0.750000"/>
+    </CModel>
+    <CModel id="QueenMPDeath" parent="UnitDeath" Race="Zerg">
+        <Model value="Assets\Units\Zerg\ZergSmallUnitDeathEx1\ZergSmallUnitDeathEx1.m3"/>
+        <LowQualityModel value="ZergSmallUnitDeathLow"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="QueenMPPortrait" parent="Portrait" Race="Zerg">
+        <Model value="Assets\Portraits\Zerg\SwarmHostSpawnPortrait\SwarmHostSpawnPortrait.m3"/>
+    </CModel>
+    <CModel id="QueenMPSpawnBroodlingsMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\ZergTowerArtilleryMissile\ZergTowerArtilleryMissile.m3"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="QueenMPEnsnareMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\FungalGrowthMissile\FungalGrowthMissile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="QueenMPEnsnareImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\BioStasisMissileImpactEx1\BioStasisMissileImpactEx1.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="QueenMPEnsnareSlow" parent="PersistentSpellFX">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Effects\Zerg\CorrosiveBileImpact\CorrosiveBileImpact.m3"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="DisintegrationMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\Disintegration_Missile\Disintegration_Missile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="DisintegrationState" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\Disintegration_State\Disintegration_State.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <ScaleMax value="0.400000,0.400000,0.400000"/>
+        <ScaleMin value="0.400000,0.400000,0.400000"/>
+    </CModel>
+    <CModel id="DisintegrationImpact" parent="PersistentSpellFX">
+        <EditorCategories value="Race:Protoss"/>
+        <Model value="Assets\Effects\Protoss\Disintegration_Impact\Disintegration_Impact.m3"/>
+    </CModel>
+    <CModel id="GrappleWeapon" parent="MissileFX">
+        <EditorCategories value="Race:Terran"/>
+        <Model value="Assets\Effects\Terran\AutoTurretPodMissile\AutoTurretPodMissile.m3"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="GrappleBeam" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\HERC_GrapplingHook_Beam\HERC_GrapplingHook_Beam.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="GrappleStun" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\Electrocute\Electrocute.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+        <SelectionRadius value="2.000000"/>
+        <ShadowRadius value="2.000000"/>
+    </CModel>
+    <CModel id="Interceptor">
+        <Model value="Assets\Units\Protoss\InterceptorEX2\InterceptorEX2.m3"/>
+    </CModel>
+    <CModel id="CausticSprayImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\CausticSpray_Missile_Impact\CausticSpray_Missile_Impact.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="CausticSprayWeapon" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\CausticSpray_Missile\CausticSpray_Missile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="OracleStasisTrap" parent="Unit" Race="Protoss">
+        <Model value="Assets\Units\Protoss\StasisWard\StasisWard.m3"/>
+        <SquibTypeDefault value="Metal"/>
+        <UnitGlossaryCamera value="Star2CameraMid05"/>
+        <PlanetPanelCamera value="Star2CameraMid05"/>
+        <TechPurchaseCamera value="Star2CameraMid05"/>
+    </CModel>
+    <CModel id="OracleStasisTrapTarget" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\StasisWardImpact\StasisWardImpact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="OracleStasisTrapExplosion" parent="UnitDeath" Race="Protoss">
+        <Model value="Assets\Effects\Protoss\StasisWardShockwave\StasisWardShockwave.m3"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="OracleStasisTrapBuildBeam" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Protoss\StasisWard_Beam\StasisWard_Beam.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="HercPortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Terran\HercEx2_Portrait\HercEx2_Portrait.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <Lighting value="HERCPortrait"/>
+    </CModel>
+    <CModel id="CyclonePortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Terran\CycloneEx2_Portrait\CycloneEx2_Portrait.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="RavagerPortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Units\Zerg\Ravager\Ravager.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="ThorSelfRepair" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\Thor_Repair\Thor_Repair.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <ScaleMax value="0.500000,0.500000,0.500000"/>
+        <ScaleMin value="0.500000,0.500000,0.500000"/>
+    </CModel>
+    <CModel id="AttackDummyCursorModel" parent="UI">
+        <Model value="Assets\UI\Cursors\WayPointAttack_Void\WayPointAttack_Void.m3"/>
+        <SelectionRadius value="2.500000"/>
+        <ShadowRadius value="2.500000"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="GlazeStasis">
+        <Model value="Assets\Effects\Glaze\Glaze_StasisWard\Glaze_StasisWard.m3"/>
+    </CModel>
+    <CModel id="GlazeShadow">
+        <Model value="Assets\Effects\Glaze\Glaze_Corrupted_TangentSpace\Glaze_Corrupted_TangentSpace.m3"/>
+    </CModel>
+    <CModel id="ParasiticBomb" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Zerg\ParasiticBombAOE\ParasiticBombAOE.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="ParasiticBombMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Zerg\ParasiticBombMissile\ParasiticBombMissile.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="ParasiticBombAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\ParasiticBombMissileDeath\ParasiticBombMissileDeath.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="ParasiticBombDotState" parent="PersistentSpellFX">
+        <EditorCategories value="Race:Zerg"/>
+        <Model value="Assets\Effects\Zerg\ParasiticBombImpact\ParasiticBombImpact.m3"/>
+    </CModel>
+    <CModel id="Adept" parent="Unit" Race="Protoss">
+        <Occlusion value="Show"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="AdeptSpirit" parent="Unit" Race="Protoss">
+        <Model value="Assets\Effects\Protoss\AdeptSpirit\AdeptSpirit.m3"/>
+        <Occlusion value="Show"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="AdeptDeath" parent="UnitDeath" Race="Protoss">
+        <Model value="Assets\Units\Protoss\Adept_Death\Adept_Death.m3"/>
+        <LowQualityModel value="ProtossSpiritDeathLow"/>
+        <Occlusion value="Show"/>
+        <SelectionRadius value="0.555400"/>
+        <ShadowRadius value="0.555400"/>
+    </CModel>
+    <CModel id="AdeptPlacement" parent="Placement" Race="Protoss">
+        <Model value="Assets\Effects\Protoss\Adept_Placement\Adept_Placement.m3"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="AdeptWarpIn" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Adept_WarpIn\Adept_WarpIn.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Occlusion value="Show"/>
+        <LowQualityModel value="ProtossUnitBirth"/>
+    </CModel>
+    <CModel id="ShadePortrait" parent="Portrait" Race="Protoss">
+        <Model value="Assets\Portraits\Protoss\AdeptEx2Portrait\AdeptEx2Portrait.m3"/>
+        <Image value="Assets\Textures\AdeptPortrait_Static.dds"/>
+        <Lighting value="AdeptPortrait"/>
+    </CModel>
+    <CModel id="AdeptImpact" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\Adept_Missile_Impact\Adept_Missile_Impact.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="AdeptWeapon" parent="MissileFX">
+        <Model value="Assets\Effects\Protoss\Adept_Missile\Adept_Missile.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CModel>
+    <CModel id="HERCJumpPrecursor" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Other\PhysicsImpactDustLarge\PhysicsImpactDustLarge.m3"/>
+        <ScaleMax value="3.000000,3.000000,3.000000"/>
+        <ScaleMin value="3.000000,3.000000,3.000000"/>
+    </CModel>
+    <CModel id="MineralField750">
+        <Model value="Assets\Buildings\Resources\CrystalsLow\CrystalsLow.m3"/>
+        <EditorCategories value="Race:Neutral"/>
+        <Radius value="0.750000"/>
+        <SelectionLayer value="2"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <TextureDeclares Prefix="rocks_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="main"/>
+            <Adaptions TriggerOnSubstring="_Specular" Slot="main"/>
+        </TextureDeclares>
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="HighYieldMineralField750">
+        <Model value="Assets\Buildings\Resources\HighYieldMineralFieldLow\HighYieldMineralFieldLow.m3"/>
+        <EditorCategories value="Race:Neutral"/>
+        <Radius value="0.750000"/>
+        <SelectionLayer value="2"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <TextureDeclares Prefix="rocks_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="main"/>
+            <Adaptions TriggerOnSubstring="_Specular" Slot="main"/>
+        </TextureDeclares>
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="LabMineralField750">
+        <Model value="Assets\Buildings\Resources\LabMinerals\LabMinerals.m3"/>
+        <EditorCategories value="Race:Neutral"/>
+        <Radius value="0.750000"/>
+        <SelectionLayer value="2"/>
+        <SelectionOffset value="0.000000,0.000000,0.250000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="0.750000"/>
+        <TextureDeclares Prefix="rocks_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="main"/>
+            <Adaptions TriggerOnSubstring="_Specular" Slot="main"/>
+        </TextureDeclares>
+        <VariationCount value="10"/>
+    </CModel>
+    <CModel id="LurkerMPAttackSpike">
+        <Model value="Assets\Effects\Zerg\LurkerMissile_EX2\LurkerMissile_EX2.m3"/>
+    </CModel>
+    <CModel id="LurkerMPAttackSpikeImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Zerg\LurkerMissile_Impact_EX2\LurkerMissile_Impact_EX2.m3"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CModel>
+    <CModel id="UnpoweredModel" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Terran\StimpackEndImpact\StimpackEndImpact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <ScaleMin value="2.000000,2.000000,2.000000"/>
+        <ScaleMax value="2.000000,2.000000,2.000000"/>
+    </CModel>
+    <CModel id="UnpoweredModelPower" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Terran\StimpackStartImpact\StimpackStartImpact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <ScaleMin value="2.000000,2.000000,2.000000"/>
+        <ScaleMax value="2.000000,2.000000,2.000000"/>
+    </CModel>
+    <CModel id="StasisWardPortrait" parent="Portrait">
+        <Model value="Assets\Units\Protoss\StasisWard\StasisWard.m3"/>
+    </CModel>
+    <CModel id="TempAdeptProtossSpiritDeathModel" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\ProtossSpiritDeath\ProtossSpiritDeath.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="AdeptSpiritIn" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Adept_SpiritIn\Adept_SpiritIn.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="AdeptSpiritOut" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Adept_SpiritOut\Adept_SpiritOut.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="AdeptSpiritSpawn" parent="OneShotSpellFX">
+        <Model value="Assets\Effects\Protoss\Adept_SpiritSpawn\Adept_SpiritSpawn.m3"/>
+        <EditorCategories value="Race:Protoss"/>
+        <Occlusion value="Show"/>
+    </CModel>
+    <CModel id="StasisTrapDeath" parent="UnitDeath" Race="Protoss">
+        <Model value="Assets\Units\Protoss\StasisWard_Death\StasisWard_Death.m3"/>
+    </CModel>
+    <CModel id="Liberator" parent="Unit" Race="Terran">
+        <AttachProps Id="Ref_Weapon 01">
+            <Keys index="SetA" value="0"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 02">
+            <Keys index="SetA" value="0"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon">
+            <Keys index="SetA" value="1"/>
+        </AttachProps>
+        <Radius value="0.875000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="1.250000"/>
+        <SelectionOffset value="0.000000,0.000000,-0.400000"/>
+        <SquibTypeDefault value="Metal"/>
+        <UnitGlossaryCamera value="Star2CameraLow12"/>
+    </CModel>
+    <CModel id="LiberatorAG" parent="Unit" Race="Terran">
+        <Model value="Assets\Units\Terran\Liberator\Liberator.m3"/>
+        <AttachProps Id="Ref_Weapon 01">
+            <Keys index="SetA" value="0"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon 02">
+            <Keys index="SetA" value="0"/>
+        </AttachProps>
+        <AttachProps Id="Ref_Weapon">
+            <Keys index="SetA" value="1"/>
+        </AttachProps>
+        <Radius value="0.875000"/>
+        <SelectionRadius value="0.750000"/>
+        <ShadowRadius value="1.250000"/>
+        <SelectionOffset value="0.000000,0.000000,-0.400000"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="LiberatorDeath">
+        <Model value="Assets\Units\Terran\Liberator_Death\Liberator_Death.m3"/>
+        <Events>
+            <Anim value="Death,00"/>
+            <Name value="Liberator_Death_ActorSound"/>
+            <Type value="Actor"/>
+            <Time value="0.010000"/>
+            <Payload value="Liberator_Death_ActorSound"/>
+        </Events>
+    </CModel>
+    <CModel id="LiberatorMorph_Death">
+        <Model value="Assets\Units\Terran\LiberatorMorph_Death\LiberatorMorph_Death.m3"/>
+        <Events>
+            <Anim value="Death,00"/>
+            <Name value="Liberator_Death_ActorSound"/>
+            <Type value="Actor"/>
+            <Time value="0.010000"/>
+            <Payload value="Liberator_Death_ActorSound"/>
+        </Events>
+    </CModel>
+    <CModel id="LiberatorAGTargetCursorSplat">
+        <Model value="Assets\Effects\Terran\Liberator_GroundTargetSplat_Placement\Liberator_GroundTargetSplat_Placement.m3"/>
+        <ScaleMax value="1.100000,1.100000,1.100000"/>
+        <ScaleMin value="1.100000,1.100000,1.100000"/>
+    </CModel>
+    <CModel id="LiberatorAGSearchIndicator" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\Liberator_GroundTargetSplat\Liberator_GroundTargetSplat.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <Flags index="FOW" value="0"/>
+        <Radius value="4.000000"/>
+        <RadiusLoose value="4.000000"/>
+        <ScaleMax value="1.100000,1.100000,1.100000"/>
+        <ScaleMin value="1.100000,1.100000,1.100000"/>
+    </CModel>
+    <CModel id="LiberatorAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\VikingFighterMissileImpact\VikingFighterMissileImpact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+        <ScaleMax value="1.500000,1.500000,1.500000"/>
+        <ScaleMin value="1.500000,1.500000,1.500000"/>
+    </CModel>
+    <CModel id="LiberatorAGAttackImpact" parent="ImpactFX">
+        <Model value="Assets\Effects\Terran\Liberator_GroundCannon_Impact\Liberator_GroundCannon_Impact.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="LiberatorMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\MissilePodMissile\MissilePodMissile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="LiberatorDamageMissile" parent="MissileFX">
+        <Model value="Assets\Effects\Terran\MissilePodMissile\MissilePodMissile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="LiberatorAttackBeam" parent="PersistentSpellFX">
+        <Model value="Assets\Effects\Terran\Liberator_GroundCannon\Liberator_GroundCannon.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+    <CModel id="TimeStop" parent="PersistentSpellFX">
+        <EditorCategories value="Race:Protoss"/>
+        <Model value="Assets\Doodads\ForceFieldWall\ForceFieldWall.m3"/>
+        <ScaleMax value="1.600000,30.000000,8.000000"/>
+        <ScaleMin value="1.600000,30.000000,8.000000"/>
+    </CModel>
+    <CModel id="LensFlareSimpleGlowAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_01.m3"/>
+    </CModel>
+    <CModel id="LensFlareSimpleStreaksAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_02.m3"/>
+    </CModel>
+    <CModel id="LensFlareMedGlowAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_03.m3"/>
+    </CModel>
+    <CModel id="LensFlareMedStreaksAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_04.m3"/>
+    </CModel>
+    <CModel id="LensFlareLargeGlowAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_05.m3"/>
+    </CModel>
+    <CModel id="LensFlareLargeStreaksAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_06.m3"/>
+    </CModel>
+    <CModel id="LensFlareChromaticAbberationAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_07.m3"/>
+    </CModel>
+    <CModel id="LensFlareEyesAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_08.m3"/>
+    </CModel>
+    <CModel id="LensFlareHorizontalFlareAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_09.m3"/>
+    </CModel>
+    <CModel id="LensFlareEnginesAiurTemple">
+        <Model value="Assets\Effects\LensFlares\LensFlare_MaterialSet_AiurTemple\LensFlare_MaterialSet_AiurTemple_10.m3"/>
+    </CModel>
+    <CModel id="KD8Charge" parent="Unit" Race="Terran">
+        <SelectionLayer value="3"/>
+        <Model value="Assets\Units\Terran\MagneticMine\MagneticMine.m3"/>
+        <LowQualityModel value="KD8ChargeLow"/>
+        <AnimSpeed value="3.000000"/>
+    </CModel>
+    <CModel id="KD8ChargeLow" parent="Unit" Race="Terran">
+        <SelectionLayer value="3"/>
+        <Model value="Assets\Units\Terran\MagneticMine\MagneticMine_Low.m3"/>
+    </CModel>
+    <CModel id="KD8ChargeWeapon" parent="MissileFX">
+        <Occlusion value="Show"/>
+        <Model value="Assets\Effects\Terran\MagneticMineMissile\MagneticMineMissile.m3"/>
+        <EditorCategories value="Race:Terran"/>
+    </CModel>
+</Catalog>
