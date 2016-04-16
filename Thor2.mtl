@@ -1,0 +1,61 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Standard_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Thor/Assets/Textures/Shadow_MercCommander_Diff.dds
+map_Ke  Moebius Corps - Thor/Assets/Textures/Shadow_MercCommander_Emiss.dds
+
+newmtl Standard_01.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Thor/Assets/Textures/Shadow_MercCommander_Diff.dds
+map_Ke  Moebius Corps - Thor/Assets/Textures/Shadow_MercCommander_Emiss.dds
+
+newmtl Standard_7
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Thor/Assets/Textures/Shadow_Thor_Diffuse.dds
+map_Ke  Moebius Corps - Thor/Assets/Textures/Shadow_Thor_Emissive.dds
+
+newmtl Standard_7.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Thor/Assets/Textures/Shadow_Thor_Diffuse.dds
+map_Ke  Moebius Corps - Thor/Assets/Textures/Shadow_Thor_Emissive.dds
+
+newmtl Standard_8
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Thor/Assets/Textures/Shadow_Thor_Cannons_Diffuse.dds

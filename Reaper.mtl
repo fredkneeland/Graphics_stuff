@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Standard_11
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Reaper/Assets/Textures/Shadow_ReaperMercenary_Diffuse.dds
+map_Ke  Moebius Corps - Reaper/Assets/Textures/Shadow_ReaperMercenary_Emissive.dds
+
+newmtl orig_New_Reaper
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Reaper/Assets/Textures/Shadow_ReaperA_Diff.dds
+map_Ke  Moebius Corps - Reaper/Assets/Textures/Shadow_ReaperA_Emmisive.dds

@@ -1,0 +1,70 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl 01_-_Default
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_GoliathMercenary_Diffuse.dds
+
+newmtl 01_-_Default.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_GoliathMercenary_Diffuse.dds
+
+newmtl 02_-_Default
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_Goliath_Diffuse.dds
+
+newmtl Standard_13
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/shadow_thorce_modifications_diffuse.dds
+
+newmtl Standard_6
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_VikingTitan_Diff.dds
+map_Ke  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_VikingTitan_Emis.dds
+
+newmtl asdfasdf
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_BunkerPerditionUpgrade_Diffuse.dds
+map_Ke  Moebius Corps - Elite Goliath/Assets/Textures/Shadow_BunkerPerditionUpgrade_Emissive.dds
