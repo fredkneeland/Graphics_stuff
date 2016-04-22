@@ -1,0 +1,27 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Standard_15.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Archangel Viking/Assets/Textures/Shadow_Viking_Diffuse.dds
+map_Ke  Moebius Corps - Archangel Viking/Assets/Textures/Shadow_Viking_Emissive.dds
+
+newmtl Standard_6.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Archangel Viking/Assets/Textures/VikingTitan_Norm.dds
+map_Kd  Moebius Corps - Archangel Viking/Assets/Textures/Shadow_VikingTitan_Diff.dds
+map_Ke  Moebius Corps - Archangel Viking/Assets/Textures/Shadow_VikingTitan_Emis.dds

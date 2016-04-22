@@ -1,0 +1,38 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Standard_4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Bunker/Assets/Textures/Shadow_Bunker_Diffuse.dds
+map_Ke  Moebius Corps - Bunker/Assets/Textures/Shadow_Bunker_Emissive.dds
+
+newmtl Standard_4.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Bunker/Assets/Textures/Shadow_Bunker_Diffuse.dds
+map_Ke  Moebius Corps - Bunker/Assets/Textures/Shadow_Bunker_Emissive.dds
+
+newmtl asdfasdf.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Bunker/Assets/Textures/Shadow_BunkerPerditionUpgrade_Diffuse.dds
+map_Ke  Moebius Corps - Bunker/Assets/Textures/Shadow_BunkerPerditionUpgrade_Emissive.dds

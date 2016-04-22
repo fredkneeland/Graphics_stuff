@@ -1,0 +1,65 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl CastanarPowerupsBlue
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Marine Commando/Assets/Textures/Shadow_CastanarPowerups_diffuse.dds
+map_Ke  Moebius Corps - Marine Commando/Assets/Textures/MarineBazooka_emissive.dds
+
+newmtl Immortal_trev
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Marine Commando/Assets/Textures/immortal_teldarim_diff.dds
+map_Ke  Moebius Corps - Marine Commando/Assets/Textures/immortal_teldarim_emiss.dds
+
+newmtl warpig
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Marine Commando/Assets/Textures/MarineXPReward_Normals.dds
+map_Kd  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Diffuse_Blood.dds
+map_Ke  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Emissive.dds
+
+newmtl warpig.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Marine Commando/Assets/Textures/MarineXPReward_Normals.dds
+map_Kd  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Diffuse_Blood.dds
+map_Ke  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Emissive.dds
+
+newmtl warpig.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Marine Commando/Assets/Textures/MarineXPReward_Normals.dds
+map_Kd  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Diffuse_Blood.dds
+map_Ke  Moebius Corps - Marine Commando/Assets/Textures/Shadow_MarineCommando_Emissive.dds

@@ -1,0 +1,184 @@
+# Blender MTL File: 'None'
+# Material Count: 15
+
+newmtl 13_-_Default
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_TowerCruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_TowerCruiser_Emissive.dds
+
+newmtl 13_-_Default.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_TowerCruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_TowerCruiser_Emissive.dds
+
+newmtl B
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersB_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersB_Emis.dds
+
+newmtl B.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersB_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersB_Emis.dds
+
+newmtl C
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Emis.dds
+
+newmtl C_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Emis.dds
+
+newmtl C_01.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_KorhalSkyScrapersC_Emis.dds
+
+newmtl Standard_8
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Emissive.dds
+
+newmtl Standard_8.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Emissive.dds
+
+newmtl Standard_8.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Emissive.dds
+
+newmtl Standard_8.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Emissive.dds
+
+newmtl Standard_8_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Diffuse.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_Battlecruiser_Emissive.dds
+
+newmtl Standard_9
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_BattleCruiserGiant_Diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/Shadow_BattleCruiserGiant_Emis.dds
+
+newmtl extra
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Super Star Destroyer/Assets/Textures/hyperion_nrm.dds
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/shadow_hyperion_diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/hyperion_emis.dds
+
+newmtl extra.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Super Star Destroyer/Assets/Textures/hyperion_nrm.dds
+map_Kd  Moebius Corps - Super Star Destroyer/Assets/Textures/shadow_hyperion_diff.dds
+map_Ke  Moebius Corps - Super Star Destroyer/Assets/Textures/hyperion_emis.dds
