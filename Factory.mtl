@@ -1,0 +1,53 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl 01_-_Default.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Factory (New)/Assets/Textures/Shadow_CliffEdges_Main_Normal.dds
+map_Kd  Moebius Corps - Factory (New)/Assets/Textures/shadow_commandcenter_extra_diffuse.dds
+map_Ke  Moebius Corps - Factory (New)/Assets/Textures/Shadow_CliffEdges_Main_Emissive.dds
+
+newmtl 01_-_Default.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Factory (New)/Assets/Textures/Shadow_CliffEdges_Main_Normal.dds
+map_Kd  Moebius Corps - Factory (New)/Assets/Textures/shadow_commandcenter_extra_diffuse.dds
+map_Ke  Moebius Corps - Factory (New)/Assets/Textures/Shadow_CliffEdges_Main_Emissive.dds
+
+newmtl 01_-_Default_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Factory (New)/Assets/Textures/DominionHousing_00_Normals.dds
+map_Kd  Moebius Corps - Factory (New)/Assets/Textures/Shadow_DominionHousing_00_Diffuse.dds
+map_Ke  Moebius Corps - Factory (New)/Assets/Textures/Shadow_DominionHousing_00_Emissive.dds
+
+newmtl Standard_8.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Factory (New)/Assets/Textures/Shadow_Factory_Diffuse.dds
+map_Ke  Moebius Corps - Factory (New)/Assets/Textures/Shadow_Factory_Emissive.dds

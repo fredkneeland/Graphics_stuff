@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Standard_11
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  SoA_Roach_Warren/Assets/Textures/SoA_Roach_Warren_Dif.dds
+map_Ke  SoA_Roach_Warren/Assets/Textures/SoA_Roach_Warren_Spec.dds
+
+newmtl Standard_11.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  SoA_Roach_Warren/Assets/Textures/SoA_Roach_Warren_Dif.dds
+map_Ke  SoA_Roach_Warren/Assets/Textures/SoA_Roach_Warren_Spec.dds

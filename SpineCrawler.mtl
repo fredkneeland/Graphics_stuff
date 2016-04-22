@@ -1,0 +1,37 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 01_-_Default.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  SoA_Sunken_Colony/Assets/Textures/SoA_zergtenticlesprojectile_Dif.dds
+
+newmtl Standard_8.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  SoA_Sunken_Colony/Assets/Textures/SoA_Sunkencolony_Dif.dds
+map_Ke  SoA_Sunken_Colony/Assets/Textures/SoA_Sunkencolony_Dif.dds
+
+newmtl Webbing
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  SoA_Sunken_Colony/Assets/Textures/SoA_Sunkencolony_Dif.dds
+map_Ke  SoA_Sunken_Colony/Assets/Textures/SoA_Sunkencolony_Dif.dds

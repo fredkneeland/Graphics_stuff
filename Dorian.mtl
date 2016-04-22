@@ -1,0 +1,132 @@
+# Blender MTL File: 'None'
+# Material Count: 11
+
+newmtl CastanarPowerupsBlue
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/Shadow_CastanarPowerups_diffuse.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/MarineBazooka_emissive.dds
+
+newmtl NewGHOST_TEXTURE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/Shadow_hpoly_ghost_diffusemap.dds
+
+newmtl Perdition.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Raynor_Hero.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Raynor_Hero.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Raynor_Hero.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Raynor_Hero.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Raynor_Hero.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Raynor_Hero.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_marinemoebiushero_emis.dds
+
+newmtl Weapon
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/Shadow_KorhalSkyScrapersA_Diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/Shadow_KorhalSkyScrapersA_Emis.dds
+
+newmtl s1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump  Moebius Corps - Commander Dorian/Assets/Textures/storm_hero_nova_ultimate_v05_norm.dds
+map_Kd  Moebius Corps - Commander Dorian/Assets/Textures/Shadow_storm_hero_nova_ultimate_v05_diff.dds
+map_Ke  Moebius Corps - Commander Dorian/Assets/Textures/shadow_storm_hero_nova_ultimate_v05_emis.dds
